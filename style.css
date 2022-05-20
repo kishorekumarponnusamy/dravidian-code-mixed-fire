@@ -42,14 +42,20 @@ html{
   label.logo{
     color: white;
     font-size: 40px;
-    line-height: 100px;
+    line-height: 30px;
     padding: 0 10px;
     font-weight: bold;
     text-align: center;
     margin-top: 100px;
   }
  
-  
+   
+  h1{
+    flex: auto;
+  }
+   h5{
+    flex: auto;
+  }
   nav .checkbtn i{
     color: #6e4f4f;
   }
